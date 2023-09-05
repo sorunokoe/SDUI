@@ -1,0 +1,27 @@
+{
+    "type": "home",
+    "page": {
+        "type": "layout-page",
+        "children": [
+            {
+                "type": "image-box",
+                "image": "https://wallpapers.com/images/featured-full/interesting-pictures-0phka103hul2wp72.jpg",
+                "title": "Amazing nature",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere fermentum enim in malesuada. Nullam in quam ultrices, mattis velit nec, condimentum lectus."
+            },
+            {
+                "type": "primary-button",
+                "text": "Read more."
+            },
+            {
+                "type": "box",
+                "title": "SDUI 😎",
+                "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras posuere fermentum enim in malesuada. Nullam in quam ultrices, mattis velit nec, condimentum lectus."
+            },
+            {
+                "type": "secondary-button",
+                "text": "Follow me"
+            }
+        ]
+    }
+}
